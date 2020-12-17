@@ -1,0 +1,25 @@
+{
+  "name": "websocket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BootCampGoIT/websocket.git"
+  },
+  "keywords": [],
+  "author": "YOUR_NAME <AndriiShnurkov@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BootCampGoIT/websocket/issues"
+  },
+  "homepage": "https://github.com/BootCampGoIT/websocket#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6",
+    "ws": "^7.4.1"
+  }
+}
